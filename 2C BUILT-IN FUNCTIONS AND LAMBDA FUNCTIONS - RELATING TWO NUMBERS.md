@@ -32,10 +32,8 @@ print(x)
 
 ### OUTPUT
 
-```
 <img width="628" height="370" alt="image" src="https://github.com/user-attachments/assets/6a510928-f5c2-414c-8cc3-af770c598322" />
 
-```
 
 ### RESULT
 
